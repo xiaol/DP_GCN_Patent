@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1083.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="0.000000 -1020.000000 1083.000000 1020.000000" height="1020.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="4.0"
+              d="M 495.548950,-369.623505 C 625.384521,-470.683777 971.728271,-427.520813 1072.788574,-297.685211"
+              class="id_LIGHT_EMITTING_DEVICE id_LIGHT_EMITTING_MODULE"
+              stroke-opacity="1.0" stroke="#347bae"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 495.548950,-369.623505 C 470.735413,-487.755524 610.713196,-702.173828 728.845215,-726.987366"
+              class="id_LIGHT_EMITTING_DEVICE id_LIGHT_EMITTING_DEVICE_PACKAGE"
+              stroke-opacity="1.0" stroke="#558fb2"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 495.548950,-369.623505 C 529.018982,-432.785065 673.966370,-477.322296 737.127930,-443.852264"
+              class="id_LIGHT_EMITTING_DEVICE id_LIGHTING_DEVICE"
+              stroke-opacity="1.0" stroke="#284299"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 495.548950,-369.623505 C 537.937256,-549.426025 871.223511,-755.547241 1051.026001,-713.158936"
+              class="id_LIGHT_EMITTING_DEVICE id_BACKLIGHT_UNIT"
+              stroke-opacity="1.0" stroke="#316da9"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 495.548950,-369.623505 C 522.729492,-491.357697 746.101563,-633.188232 867.835754,-606.007690"
+              class="id_LIGHT_EMITTING_DEVICE id_LIGHTING_SYSTEM"
+              stroke-opacity="1.0" stroke="#316da9"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 495.548950,-369.623505 C 483.346558,-539.429871 719.752563,-812.442993 889.558960,-824.645386"
+              class="id_LIGHT_EMITTING_DEVICE id_LIGHT_EMITTING_APPARATUS"
+              stroke-opacity="1.0" stroke="#558fb2"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 495.548950,-369.623505 C 575.213013,-502.446869 893.944214,-582.185852 1026.767578,-502.521790"
+              class="id_LIGHT_EMITTING_DEVICE id_SEMICONDUCTOR_LIGHT_EMITTING_DEVICE"
+              stroke-opacity="1.0" stroke="#558fb2"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 495.548950,-369.623505 C 347.577881,-477.738831 287.794312,-861.868408 395.909668,-1009.839478"
+              class="id_LIGHT_EMITTING_DEVICE id_POLYMER_COMPOUND"
+              stroke-opacity="1.0" stroke="#6a97b3"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 203.409943,-260.099365 C 273.402954,-403.593536 593.633789,-513.845276 737.127930,-443.852264"
+              class="id_LIQUID_CRYSTAL_DISPLAY id_LIGHTING_DEVICE"
+              stroke-opacity="1.0" stroke="#3d79ac"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 203.409943,-260.099365 C 227.106277,-402.181671 475.774170,-579.760559 617.856445,-556.064270"
+              class="id_LIQUID_CRYSTAL_DISPLAY id_LIQUID_CRYSTAL_DISPLAY_DEVICE"
+              stroke-opacity="1.0" stroke="#56bec4"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 203.409943,-260.099365 C 282.321259,-520.234497 790.890869,-792.070190 1051.026001,-713.158936"
+              class="id_LIQUID_CRYSTAL_DISPLAY id_BACKLIGHT_UNIT"
+              stroke-opacity="1.0" stroke="#46a4bc"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 203.409943,-260.099365 C 103.026077,-323.512390 47.569870,-569.207764 110.982910,-669.591614"
+              class="id_LIQUID_CRYSTAL_DISPLAY id_BACKLIGHT_DEVICE"
+              stroke-opacity="1.0" stroke="#80cec6"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 737.127930,-443.852264 C 730.838379,-502.424927 809.263123,-599.718140 867.835754,-606.007690"
+              class="id_LIGHTING_DEVICE id_LIGHTING_SYSTEM" stroke-opacity="1.0"
+              stroke="#2e5fa4"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 737.127930,-443.852264 C 690.831238,-442.440369 619.268372,-509.767578 617.856445,-556.064270"
+              class="id_LIGHTING_DEVICE id_LIQUID_CRYSTAL_DISPLAY_DEVICE"
+              stroke-opacity="1.0" stroke="#3d79ac"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 737.127930,-443.852264 C 833.493469,-481.750977 1034.889893,-394.050720 1072.788574,-297.685211"
+              class="id_LIGHTING_DEVICE id_LIGHT_EMITTING_MODULE"
+              stroke-opacity="1.0" stroke="#316da9"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 737.127930,-443.852264 C 638.630493,-559.754883 664.738281,-881.354919 780.640869,-979.852356"
+              class="id_LIGHTING_DEVICE id_HETEROCYCLIC_COMPOUND"
+              stroke-opacity="1.0" stroke="#7c91af"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 737.127930,-443.852264 C 783.321960,-513.514099 957.105774,-548.715820 1026.767578,-502.521790"
+              class="id_LIGHTING_DEVICE id_SEMICONDUCTOR_LIGHT_EMITTING_DEVICE"
+              stroke-opacity="1.0" stroke="#5281ad"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 737.127930,-443.852264 C 584.243469,-431.857941 336.925201,-643.193176 324.930847,-796.077637"
+              class="id_LIGHTING_DEVICE id_ORGANIC_ELECTROLUMINESCENCE_ELEMENT"
+              stroke-opacity="1.0" stroke="#6789ae"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 737.127930,-443.852264 C 746.046204,-560.493225 934.385071,-722.077209 1051.026001,-713.158936"
+              class="id_LIGHTING_DEVICE id_BACKLIGHT_UNIT" stroke-opacity="1.0"
+              stroke="#2e5fa4"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 1072.788574,-297.685211 C 985.341309,-376.427460 972.283813,-625.711670 1051.026001,-713.158936"
+              class="id_LIGHT_EMITTING_MODULE id_BACKLIGHT_UNIT"
+              stroke-opacity="1.0" stroke="#3a98b9"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 1072.788574,-297.685211 C 970.133484,-318.359131 847.161804,-503.352631 867.835754,-606.007690"
+              class="id_LIGHT_EMITTING_MODULE id_LIGHTING_SYSTEM"
+              stroke-opacity="1.0" stroke="#3a98b9"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 1072.788574,-297.685211 C 1022.617004,-329.448334 995.004456,-452.350281 1026.767578,-502.521790"
+              class="id_LIGHT_EMITTING_MODULE id_SEMICONDUCTOR_LIGHT_EMITTING_DEVICE"
+              stroke-opacity="1.0" stroke="#5ebac2"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 617.856445,-556.064270 C 673.071411,-674.117126 932.973145,-768.373901 1051.026001,-713.158936"
+              class="id_LIQUID_CRYSTAL_DISPLAY_DEVICE id_BACKLIGHT_UNIT"
+              stroke-opacity="1.0" stroke="#46a4bc"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 617.856445,-556.064270 C 493.776276,-477.395020 189.652130,-545.511475 110.982910,-669.591614"
+              class="id_LIQUID_CRYSTAL_DISPLAY_DEVICE id_BACKLIGHT_DEVICE"
+              stroke-opacity="1.0" stroke="#80cec6"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 728.845215,-726.987366 C 780.839233,-730.589539 864.233582,-658.001709 867.835754,-606.007690"
+              class="id_LIGHT_EMITTING_DEVICE_PACKAGE id_LIGHTING_SYSTEM"
+              stroke-opacity="1.0" stroke="#5bacbd"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 728.845215,-726.987366 C 741.456360,-778.661743 837.884583,-837.256531 889.558960,-824.645386"
+              class="id_LIGHT_EMITTING_DEVICE_PACKAGE id_LIGHT_EMITTING_APPARATUS"
+              stroke-opacity="1.0" stroke="#80cec6"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 867.835754,-606.007690 C 883.043579,-664.075989 992.957703,-728.366760 1051.026001,-713.158936"
+              class="id_LIGHTING_SYSTEM id_BACKLIGHT_UNIT" stroke-opacity="1.0"
+              stroke="#378ab4"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 867.835754,-606.007690 C 828.452881,-654.079895 841.486755,-785.262512 889.558960,-824.645386"
+              class="id_LIGHTING_SYSTEM id_LIGHT_EMITTING_APPARATUS"
+              stroke-opacity="1.0" stroke="#5bacbd"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 324.930847,-796.077637 C 296.374237,-853.025757 338.961517,-981.282837 395.909668,-1009.839478"
+              class="id_ORGANIC_ELECTROLUMINESCENCE_ELEMENT id_POLYMER_COMPOUND"
+              stroke-opacity="1.0" stroke="#aadec8"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#2b509e" r="10.0" cx="495.54895"
+                class="id_LIGHT_EMITTING_DEVICE" cy="-369.6235" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#56bec4" r="10.0" cx="203.40994"
+                class="id_LIQUID_CRYSTAL_DISPLAY" cy="-260.09937"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#253494" r="10.0" cx="737.1279"
+                class="id_LIGHTING_DEVICE" cy="-443.85226" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3da7be" r="10.0" cx="1072.7886"
+                class="id_LIGHT_EMITTING_MODULE" cy="-297.6852" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#56bec4" r="10.0" cx="617.85645"
+                class="id_LIQUID_CRYSTAL_DISPLAY_DEVICE" cy="-556.0643"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d4eeca" r="10.0" cx="780.64087"
+                class="id_HETEROCYCLIC_COMPOUND" cy="-979.85236"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#80cec6" r="10.0" cx="728.8452"
+                class="id_LIGHT_EMITTING_DEVICE_PACKAGE" cy="-726.98737"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#378ab4" r="10.0" cx="867.83575"
+                class="id_LIGHTING_SYSTEM" cy="-606.0077" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#80cec6" r="10.0" cx="1026.7676"
+                class="id_SEMICONDUCTOR_LIGHT_EMITTING_DEVICE" cy="-502.5218"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#aadec8" r="10.0" cx="324.93085"
+                class="id_ORGANIC_ELECTROLUMINESCENCE_ELEMENT" cy="-796.07764"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#378ab4" r="10.0" cx="1051.026"
+                class="id_BACKLIGHT_UNIT" cy="-713.15894" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#aadec8" r="10.0" cx="395.90967"
+                class="id_POLYMER_COMPOUND" cy="-1009.8395" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#aadec8" r="10.0" cx="110.98291"
+                class="id_BACKLIGHT_DEVICE" cy="-669.5916" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#80cec6" r="10.0" cx="889.55896"
+                class="id_LIGHT_EMITTING_APPARATUS" cy="-824.6454"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="495.54895" y="-364.9321" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Microsoft YaHei UI" class="id_LIGHT_EMITTING_DEVICE">
+            LIGHT EMITTING DEVICE
+        </text>
+        <text font-size="24" x="203.40994" y="-254.87085" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Microsoft YaHei UI" class="id_LIQUID_CRYSTAL_DISPLAY">
+            LIQUID CRYSTAL DISPLAY
+        </text>
+        <text font-size="24" x="737.1279" y="-439.16086" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Microsoft YaHei UI" class="id_LIGHTING_DEVICE">
+            LIGHTING DEVICE
+        </text>
+        <text font-size="24" x="1072.7886" y="-292.9938" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Microsoft YaHei UI" class="id_LIGHT_EMITTING_MODULE">
+            LIGHT EMITTING MODULE
+        </text>
+        <text font-size="24" x="617.85645" y="-550.83575" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Microsoft YaHei UI"
+              class="id_LIQUID_CRYSTAL_DISPLAY_DEVICE">
+            LIQUID CRYSTAL DISPLAY DEVICE
+        </text>
+        <text font-size="24" x="780.64087" y="-975.16095" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Microsoft YaHei UI" class="id_HETEROCYCLIC_COMPOUND">
+            HETEROCYCLIC COMPOUND
+        </text>
+        <text font-size="24" x="728.8452" y="-722.29596" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Microsoft YaHei UI"
+              class="id_LIGHT_EMITTING_DEVICE_PACKAGE">
+            LIGHT EMITTING DEVICE PACKAGE
+        </text>
+        <text font-size="24" x="867.83575" y="-601.3163" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Microsoft YaHei UI" class="id_LIGHTING_SYSTEM">
+            LIGHTING SYSTEM
+        </text>
+        <text font-size="24" x="1026.7676" y="-497.83038" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Microsoft YaHei UI"
+              class="id_SEMICONDUCTOR_LIGHT_EMITTING_DEVICE">
+            SEMICONDUCTOR LIGHT EMITTING DEVICE
+        </text>
+        <text font-size="24" x="324.93085" y="-791.3862" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Microsoft YaHei UI"
+              class="id_ORGANIC_ELECTROLUMINESCENCE_ELEMENT">
+            ORGANIC ELECTROLUMINESCENCE ELEMENT
+        </text>
+        <text font-size="24" x="1051.026" y="-708.4675" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Microsoft YaHei UI" class="id_BACKLIGHT_UNIT">
+            BACKLIGHT UNIT
+        </text>
+        <text font-size="24" x="395.90967" y="-1005.1481" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Microsoft YaHei UI" class="id_POLYMER_COMPOUND">
+            POLYMER COMPOUND
+        </text>
+        <text font-size="24" x="110.98291" y="-664.9002" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Microsoft YaHei UI" class="id_BACKLIGHT_DEVICE">
+            BACKLIGHT DEVICE
+        </text>
+        <text font-size="24" x="889.55896" y="-819.954" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Microsoft YaHei UI"
+              class="id_LIGHT_EMITTING_APPARATUS">
+            LIGHT EMITTING APPARATUS
+        </text>
+    </g>
+</svg>

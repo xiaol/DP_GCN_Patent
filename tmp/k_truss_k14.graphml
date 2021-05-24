@@ -1,0 +1,650 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="METHOD"/>
+<node id="DISPLAY DEVICE"/>
+<node id="THE SAME"/>
+<node id="THEREOF"/>
+<node id="PREPARATION METHOD"/>
+<node id="ELECTRONIC DEVICE"/>
+<node id="BATTERY"/>
+<node id="APPARATUS"/>
+<node id="COMPOUND"/>
+<node id="COMPOSITION"/>
+<node id="PROCESS"/>
+<node id="PRODUCTION"/>
+<node id="USE"/>
+<node id="FILM"/>
+<node id="SILICON"/>
+<node id="MANUFACTURING METHOD"/>
+<node id="DEVICE"/>
+<node id="DISPLAY"/>
+<node id="SYSTEM"/>
+<node id="METHODS"/>
+<node id="COMPOSITIONS"/>
+<node id="PREPARATION"/>
+<node id="POLYMER"/>
+<node id="LAYER"/>
+<node id="SAME"/>
+<node id="MEMBRANE"/>
+<node id="SEMICONDUCTOR DEVICE"/>
+<node id="THEREFOR"/>
+<node id="PRODUCTION METHOD"/>
+<node id="SUBSTRATE"/>
+<node id="CRYSTAL"/>
+<node id="COMPRISING"/>
+<node id="RESIN COMPOSITION"/>
+<node id="LAMINATE"/>
+<node id="MATERIAL"/>
+<node id="A METHOD"/>
+<node id="STRUCTURE"/>
+<node id="PACKAGE"/>
+<node id="CATALYST"/>
+<node id="SOLUTION"/>
+<node id="HAVING"/>
+<node id="USING"/>
+<node id="COATING"/>
+<node id="RESIN"/>
+<edge source="METHOD" target="APPARATUS"/>
+<edge source="METHOD" target="SYSTEM"/>
+<edge source="METHOD" target="BATTERY"/>
+<edge source="METHOD" target="DEVICE"/>
+<edge source="METHOD" target="SEMICONDUCTOR DEVICE"/>
+<edge source="METHOD" target="STRUCTURE"/>
+<edge source="METHOD" target="PRODUCTION"/>
+<edge source="METHOD" target="THEREFOR"/>
+<edge source="METHOD" target="USE"/>
+<edge source="METHOD" target="COMPOSITION"/>
+<edge source="METHOD" target="USING"/>
+<edge source="METHOD" target="PROCESS"/>
+<edge source="METHOD" target="MATERIAL"/>
+<edge source="METHOD" target="LAMINATE"/>
+<edge source="METHOD" target="COATING"/>
+<edge source="METHOD" target="CATALYST"/>
+<edge source="METHOD" target="FILM"/>
+<edge source="METHOD" target="ELECTRONIC DEVICE"/>
+<edge source="METHOD" target="SAME"/>
+<edge source="METHOD" target="COMPOSITIONS"/>
+<edge source="METHOD" target="COMPRISING"/>
+<edge source="METHOD" target="PRODUCTION METHOD"/>
+<edge source="METHOD" target="POLYMER"/>
+<edge source="METHOD" target="SUBSTRATE"/>
+<edge source="METHOD" target="THEREOF"/>
+<edge source="METHOD" target="PREPARATION"/>
+<edge source="METHOD" target="COMPOUND"/>
+<edge source="METHOD" target="PACKAGE"/>
+<edge source="METHOD" target="SILICON"/>
+<edge source="METHOD" target="LAYER"/>
+<edge source="METHOD" target="CRYSTAL"/>
+<edge source="METHOD" target="MEMBRANE"/>
+<edge source="METHOD" target="DISPLAY"/>
+<edge source="METHOD" target="METHODS"/>
+<edge source="METHOD" target="THE SAME"/>
+<edge source="METHOD" target="SOLUTION"/>
+<edge source="METHOD" target="A METHOD"/>
+<edge source="METHOD" target="HAVING"/>
+<edge source="METHOD" target="DISPLAY DEVICE"/>
+<edge source="METHOD" target="RESIN"/>
+<edge source="METHOD" target="RESIN COMPOSITION"/>
+<edge source="DISPLAY DEVICE" target="SAME"/>
+<edge source="DISPLAY DEVICE" target="MANUFACTURING METHOD"/>
+<edge source="DISPLAY DEVICE" target="ELECTRONIC DEVICE"/>
+<edge source="DISPLAY DEVICE" target="SYSTEM"/>
+<edge source="DISPLAY DEVICE" target="PROCESS"/>
+<edge source="DISPLAY DEVICE" target="SEMICONDUCTOR DEVICE"/>
+<edge source="DISPLAY DEVICE" target="APPARATUS"/>
+<edge source="DISPLAY DEVICE" target="THE SAME"/>
+<edge source="DISPLAY DEVICE" target="DEVICE"/>
+<edge source="DISPLAY DEVICE" target="METHODS"/>
+<edge source="DISPLAY DEVICE" target="PRODUCTION"/>
+<edge source="DISPLAY DEVICE" target="THEREOF"/>
+<edge source="DISPLAY DEVICE" target="COMPOUND"/>
+<edge source="DISPLAY DEVICE" target="FILM"/>
+<edge source="DISPLAY DEVICE" target="DISPLAY"/>
+<edge source="DISPLAY DEVICE" target="PRODUCTION METHOD"/>
+<edge source="DISPLAY DEVICE" target="COMPRISING"/>
+<edge source="DISPLAY DEVICE" target="RESIN COMPOSITION"/>
+<edge source="DISPLAY DEVICE" target="USING"/>
+<edge source="THE SAME" target="APPARATUS"/>
+<edge source="THE SAME" target="BATTERY"/>
+<edge source="THE SAME" target="LAMINATE"/>
+<edge source="THE SAME" target="MANUFACTURING METHOD"/>
+<edge source="THE SAME" target="USE"/>
+<edge source="THE SAME" target="METHODS"/>
+<edge source="THE SAME" target="SEMICONDUCTOR DEVICE"/>
+<edge source="THE SAME" target="ELECTRONIC DEVICE"/>
+<edge source="THE SAME" target="PROCESS"/>
+<edge source="THE SAME" target="DISPLAY"/>
+<edge source="THE SAME" target="DEVICE"/>
+<edge source="THE SAME" target="CATALYST"/>
+<edge source="THE SAME" target="RESIN COMPOSITION"/>
+<edge source="THE SAME" target="RESIN"/>
+<edge source="THE SAME" target="FILM"/>
+<edge source="THE SAME" target="POLYMER"/>
+<edge source="THE SAME" target="COMPOSITION"/>
+<edge source="THE SAME" target="A METHOD"/>
+<edge source="THE SAME" target="MATERIAL"/>
+<edge source="THE SAME" target="COATING"/>
+<edge source="THE SAME" target="COMPOUND"/>
+<edge source="THE SAME" target="PREPARATION"/>
+<edge source="THE SAME" target="STRUCTURE"/>
+<edge source="THE SAME" target="MEMBRANE"/>
+<edge source="THE SAME" target="COMPOSITIONS"/>
+<edge source="THE SAME" target="PREPARATION METHOD"/>
+<edge source="THE SAME" target="SYSTEM"/>
+<edge source="THE SAME" target="CRYSTAL"/>
+<edge source="THE SAME" target="SUBSTRATE"/>
+<edge source="THE SAME" target="COMPRISING"/>
+<edge source="THE SAME" target="SOLUTION"/>
+<edge source="THE SAME" target="HAVING"/>
+<edge source="THE SAME" target="USING"/>
+<edge source="THEREOF" target="METHODS"/>
+<edge source="THEREOF" target="PREPARATION"/>
+<edge source="THEREOF" target="FILM"/>
+<edge source="THEREOF" target="COMPOSITION"/>
+<edge source="THEREOF" target="PROCESS"/>
+<edge source="THEREOF" target="POLYMER"/>
+<edge source="THEREOF" target="USE"/>
+<edge source="THEREOF" target="DEVICE"/>
+<edge source="THEREOF" target="A METHOD"/>
+<edge source="THEREOF" target="COMPOSITIONS"/>
+<edge source="THEREOF" target="PRODUCTION"/>
+<edge source="THEREOF" target="PRODUCTION METHOD"/>
+<edge source="THEREOF" target="HAVING"/>
+<edge source="THEREOF" target="SEMICONDUCTOR DEVICE"/>
+<edge source="THEREOF" target="COMPOUND"/>
+<edge source="THEREOF" target="SUBSTRATE"/>
+<edge source="THEREOF" target="BATTERY"/>
+<edge source="THEREOF" target="RESIN COMPOSITION"/>
+<edge source="THEREOF" target="MATERIAL"/>
+<edge source="THEREOF" target="PREPARATION METHOD"/>
+<edge source="THEREOF" target="SAME"/>
+<edge source="THEREOF" target="APPARATUS"/>
+<edge source="THEREOF" target="SILICON"/>
+<edge source="THEREOF" target="SYSTEM"/>
+<edge source="THEREOF" target="MEMBRANE"/>
+<edge source="THEREOF" target="THEREFOR"/>
+<edge source="THEREOF" target="CRYSTAL"/>
+<edge source="THEREOF" target="COMPRISING"/>
+<edge source="THEREOF" target="LAMINATE"/>
+<edge source="THEREOF" target="STRUCTURE"/>
+<edge source="THEREOF" target="PACKAGE"/>
+<edge source="THEREOF" target="CATALYST"/>
+<edge source="THEREOF" target="USING"/>
+<edge source="THEREOF" target="COATING"/>
+<edge source="THEREOF" target="RESIN"/>
+<edge source="PREPARATION METHOD" target="USING"/>
+<edge source="PREPARATION METHOD" target="THEREFOR"/>
+<edge source="PREPARATION METHOD" target="USE"/>
+<edge source="PREPARATION METHOD" target="PRODUCTION METHOD"/>
+<edge source="PREPARATION METHOD" target="COMPOSITION"/>
+<edge source="PREPARATION METHOD" target="PROCESS"/>
+<edge source="PREPARATION METHOD" target="PREPARATION"/>
+<edge source="PREPARATION METHOD" target="RESIN COMPOSITION"/>
+<edge source="PREPARATION METHOD" target="MANUFACTURING METHOD"/>
+<edge source="PREPARATION METHOD" target="COMPOUND"/>
+<edge source="PREPARATION METHOD" target="FILM"/>
+<edge source="PREPARATION METHOD" target="LAYER"/>
+<edge source="PREPARATION METHOD" target="SAME"/>
+<edge source="PREPARATION METHOD" target="MEMBRANE"/>
+<edge source="PREPARATION METHOD" target="SUBSTRATE"/>
+<edge source="PREPARATION METHOD" target="MATERIAL"/>
+<edge source="PREPARATION METHOD" target="CATALYST"/>
+<edge source="PREPARATION METHOD" target="COATING"/>
+<edge source="PREPARATION METHOD" target="RESIN"/>
+<edge source="ELECTRONIC DEVICE" target="MANUFACTURING METHOD"/>
+<edge source="ELECTRONIC DEVICE" target="PROCESS"/>
+<edge source="ELECTRONIC DEVICE" target="DISPLAY"/>
+<edge source="ELECTRONIC DEVICE" target="A METHOD"/>
+<edge source="ELECTRONIC DEVICE" target="SAME"/>
+<edge source="ELECTRONIC DEVICE" target="SYSTEM"/>
+<edge source="ELECTRONIC DEVICE" target="SEMICONDUCTOR DEVICE"/>
+<edge source="ELECTRONIC DEVICE" target="APPARATUS"/>
+<edge source="ELECTRONIC DEVICE" target="PACKAGE"/>
+<edge source="ELECTRONIC DEVICE" target="STRUCTURE"/>
+<edge source="ELECTRONIC DEVICE" target="COMPOUND"/>
+<edge source="ELECTRONIC DEVICE" target="METHODS"/>
+<edge source="ELECTRONIC DEVICE" target="BATTERY"/>
+<edge source="ELECTRONIC DEVICE" target="COMPOSITION"/>
+<edge source="ELECTRONIC DEVICE" target="FILM"/>
+<edge source="ELECTRONIC DEVICE" target="DEVICE"/>
+<edge source="ELECTRONIC DEVICE" target="SUBSTRATE"/>
+<edge source="ELECTRONIC DEVICE" target="MATERIAL"/>
+<edge source="ELECTRONIC DEVICE" target="HAVING"/>
+<edge source="ELECTRONIC DEVICE" target="USING"/>
+<edge source="BATTERY" target="MANUFACTURING METHOD"/>
+<edge source="BATTERY" target="DEVICE"/>
+<edge source="BATTERY" target="METHODS"/>
+<edge source="BATTERY" target="PRODUCTION"/>
+<edge source="BATTERY" target="SAME"/>
+<edge source="BATTERY" target="FILM"/>
+<edge source="BATTERY" target="MATERIAL"/>
+<edge source="BATTERY" target="SYSTEM"/>
+<edge source="BATTERY" target="APPARATUS"/>
+<edge source="BATTERY" target="COMPOSITION"/>
+<edge source="BATTERY" target="USE"/>
+<edge source="BATTERY" target="COMPRISING"/>
+<edge source="BATTERY" target="STRUCTURE"/>
+<edge source="BATTERY" target="HAVING"/>
+<edge source="BATTERY" target="USING"/>
+<edge source="APPARATUS" target="METHODS"/>
+<edge source="APPARATUS" target="LAMINATE"/>
+<edge source="APPARATUS" target="SYSTEM"/>
+<edge source="APPARATUS" target="RESIN"/>
+<edge source="APPARATUS" target="PRODUCTION METHOD"/>
+<edge source="APPARATUS" target="PACKAGE"/>
+<edge source="APPARATUS" target="MANUFACTURING METHOD"/>
+<edge source="APPARATUS" target="DISPLAY"/>
+<edge source="APPARATUS" target="SAME"/>
+<edge source="APPARATUS" target="USING"/>
+<edge source="APPARATUS" target="PROCESS"/>
+<edge source="APPARATUS" target="PRODUCTION"/>
+<edge source="APPARATUS" target="COMPOSITIONS"/>
+<edge source="APPARATUS" target="DEVICE"/>
+<edge source="APPARATUS" target="A METHOD"/>
+<edge source="APPARATUS" target="COATING"/>
+<edge source="APPARATUS" target="SEMICONDUCTOR DEVICE"/>
+<edge source="APPARATUS" target="LAYER"/>
+<edge source="APPARATUS" target="COMPOSITION"/>
+<edge source="APPARATUS" target="STRUCTURE"/>
+<edge source="APPARATUS" target="POLYMER"/>
+<edge source="APPARATUS" target="CRYSTAL"/>
+<edge source="APPARATUS" target="THEREFOR"/>
+<edge source="APPARATUS" target="CATALYST"/>
+<edge source="APPARATUS" target="USE"/>
+<edge source="APPARATUS" target="SILICON"/>
+<edge source="APPARATUS" target="PREPARATION"/>
+<edge source="APPARATUS" target="MEMBRANE"/>
+<edge source="APPARATUS" target="SUBSTRATE"/>
+<edge source="APPARATUS" target="COMPRISING"/>
+<edge source="APPARATUS" target="MATERIAL"/>
+<edge source="APPARATUS" target="SOLUTION"/>
+<edge source="COMPOUND" target="COMPOSITION"/>
+<edge source="COMPOUND" target="USE"/>
+<edge source="COMPOUND" target="MATERIAL"/>
+<edge source="COMPOUND" target="RESIN"/>
+<edge source="COMPOUND" target="POLYMER"/>
+<edge source="COMPOUND" target="METHODS"/>
+<edge source="COMPOUND" target="PROCESS"/>
+<edge source="COMPOUND" target="PREPARATION"/>
+<edge source="COMPOUND" target="SAME"/>
+<edge source="COMPOUND" target="DEVICE"/>
+<edge source="COMPOUND" target="CATALYST"/>
+<edge source="COMPOUND" target="MEMBRANE"/>
+<edge source="COMPOUND" target="PRODUCTION"/>
+<edge source="COMPOUND" target="HAVING"/>
+<edge source="COMPOUND" target="SEMICONDUCTOR DEVICE"/>
+<edge source="COMPOUND" target="FILM"/>
+<edge source="COMPOUND" target="PRODUCTION METHOD"/>
+<edge source="COMPOUND" target="LAYER"/>
+<edge source="COMPOUND" target="CRYSTAL"/>
+<edge source="COMPOUND" target="COMPOSITIONS"/>
+<edge source="COMPOUND" target="DISPLAY"/>
+<edge source="COMPOUND" target="SOLUTION"/>
+<edge source="COMPOUND" target="USING"/>
+<edge source="COMPOSITION" target="MANUFACTURING METHOD"/>
+<edge source="COMPOSITION" target="FILM"/>
+<edge source="COMPOSITION" target="RESIN"/>
+<edge source="COMPOSITION" target="METHODS"/>
+<edge source="COMPOSITION" target="COATING"/>
+<edge source="COMPOSITION" target="CATALYST"/>
+<edge source="COMPOSITION" target="COMPRISING"/>
+<edge source="COMPOSITION" target="STRUCTURE"/>
+<edge source="COMPOSITION" target="POLYMER"/>
+<edge source="COMPOSITION" target="PROCESS"/>
+<edge source="COMPOSITION" target="USE"/>
+<edge source="COMPOSITION" target="DEVICE"/>
+<edge source="COMPOSITION" target="THEREFOR"/>
+<edge source="COMPOSITION" target="PRODUCTION METHOD"/>
+<edge source="COMPOSITION" target="SYSTEM"/>
+<edge source="COMPOSITION" target="SAME"/>
+<edge source="COMPOSITION" target="CRYSTAL"/>
+<edge source="COMPOSITION" target="MATERIAL"/>
+<edge source="COMPOSITION" target="SOLUTION"/>
+<edge source="COMPOSITION" target="A METHOD"/>
+<edge source="COMPOSITION" target="LAMINATE"/>
+<edge source="COMPOSITION" target="USING"/>
+<edge source="COMPOSITION" target="PREPARATION"/>
+<edge source="COMPOSITION" target="PRODUCTION"/>
+<edge source="COMPOSITION" target="MEMBRANE"/>
+<edge source="COMPOSITION" target="SILICON"/>
+<edge source="COMPOSITION" target="DISPLAY"/>
+<edge source="COMPOSITION" target="LAYER"/>
+<edge source="COMPOSITION" target="SUBSTRATE"/>
+<edge source="COMPOSITION" target="HAVING"/>
+<edge source="PROCESS" target="SYSTEM"/>
+<edge source="PROCESS" target="CATALYST"/>
+<edge source="PROCESS" target="DEVICE"/>
+<edge source="PROCESS" target="USE"/>
+<edge source="PROCESS" target="COATING"/>
+<edge source="PROCESS" target="USING"/>
+<edge source="PROCESS" target="A METHOD"/>
+<edge source="PROCESS" target="RESIN"/>
+<edge source="PROCESS" target="PRODUCTION"/>
+<edge source="PROCESS" target="LAYER"/>
+<edge source="PROCESS" target="PRODUCTION METHOD"/>
+<edge source="PROCESS" target="THEREFOR"/>
+<edge source="PROCESS" target="SUBSTRATE"/>
+<edge source="PROCESS" target="CRYSTAL"/>
+<edge source="PROCESS" target="POLYMER"/>
+<edge source="PROCESS" target="MATERIAL"/>
+<edge source="PROCESS" target="SILICON"/>
+<edge source="PROCESS" target="PREPARATION"/>
+<edge source="PROCESS" target="COMPOSITIONS"/>
+<edge source="PROCESS" target="FILM"/>
+<edge source="PROCESS" target="METHODS"/>
+<edge source="PROCESS" target="SAME"/>
+<edge source="PROCESS" target="MEMBRANE"/>
+<edge source="PROCESS" target="SEMICONDUCTOR DEVICE"/>
+<edge source="PROCESS" target="COMPRISING"/>
+<edge source="PROCESS" target="RESIN COMPOSITION"/>
+<edge source="PROCESS" target="LAMINATE"/>
+<edge source="PROCESS" target="STRUCTURE"/>
+<edge source="PROCESS" target="PACKAGE"/>
+<edge source="PROCESS" target="SOLUTION"/>
+<edge source="PROCESS" target="HAVING"/>
+<edge source="PRODUCTION" target="THEREFOR"/>
+<edge source="PRODUCTION" target="LAMINATE"/>
+<edge source="PRODUCTION" target="COMPOSITIONS"/>
+<edge source="PRODUCTION" target="USE"/>
+<edge source="PRODUCTION" target="SAME"/>
+<edge source="PRODUCTION" target="METHODS"/>
+<edge source="PRODUCTION" target="DEVICE"/>
+<edge source="PRODUCTION" target="SEMICONDUCTOR DEVICE"/>
+<edge source="PRODUCTION" target="CATALYST"/>
+<edge source="PRODUCTION" target="POLYMER"/>
+<edge source="PRODUCTION" target="USING"/>
+<edge source="PRODUCTION" target="SILICON"/>
+<edge source="PRODUCTION" target="SYSTEM"/>
+<edge source="PRODUCTION" target="FILM"/>
+<edge source="PRODUCTION" target="RESIN COMPOSITION"/>
+<edge source="PRODUCTION" target="RESIN"/>
+<edge source="PRODUCTION" target="SUBSTRATE"/>
+<edge source="PRODUCTION" target="PRODUCTION METHOD"/>
+<edge source="PRODUCTION" target="COMPRISING"/>
+<edge source="PRODUCTION" target="STRUCTURE"/>
+<edge source="USE" target="PREPARATION"/>
+<edge source="USE" target="MATERIAL"/>
+<edge source="USE" target="MEMBRANE"/>
+<edge source="USE" target="METHODS"/>
+<edge source="USE" target="DISPLAY"/>
+<edge source="USE" target="DEVICE"/>
+<edge source="USE" target="COMPOSITIONS"/>
+<edge source="USE" target="FILM"/>
+<edge source="USE" target="SILICON"/>
+<edge source="USE" target="MANUFACTURING METHOD"/>
+<edge source="USE" target="LAYER"/>
+<edge source="USE" target="SAME"/>
+<edge source="USE" target="THEREFOR"/>
+<edge source="USE" target="PRODUCTION METHOD"/>
+<edge source="USE" target="SUBSTRATE"/>
+<edge source="USE" target="COMPRISING"/>
+<edge source="USE" target="RESIN COMPOSITION"/>
+<edge source="USE" target="STRUCTURE"/>
+<edge source="USE" target="CATALYST"/>
+<edge source="USE" target="HAVING"/>
+<edge source="USE" target="COATING"/>
+<edge source="USE" target="RESIN"/>
+<edge source="FILM" target="COATING"/>
+<edge source="FILM" target="DISPLAY"/>
+<edge source="FILM" target="PRODUCTION METHOD"/>
+<edge source="FILM" target="RESIN"/>
+<edge source="FILM" target="MANUFACTURING METHOD"/>
+<edge source="FILM" target="CRYSTAL"/>
+<edge source="FILM" target="METHODS"/>
+<edge source="FILM" target="DEVICE"/>
+<edge source="FILM" target="POLYMER"/>
+<edge source="FILM" target="LAMINATE"/>
+<edge source="FILM" target="LAYER"/>
+<edge source="FILM" target="A METHOD"/>
+<edge source="FILM" target="SAME"/>
+<edge source="FILM" target="MATERIAL"/>
+<edge source="FILM" target="SILICON"/>
+<edge source="FILM" target="MEMBRANE"/>
+<edge source="FILM" target="SEMICONDUCTOR DEVICE"/>
+<edge source="FILM" target="SUBSTRATE"/>
+<edge source="FILM" target="COMPRISING"/>
+<edge source="FILM" target="RESIN COMPOSITION"/>
+<edge source="FILM" target="STRUCTURE"/>
+<edge source="FILM" target="SOLUTION"/>
+<edge source="FILM" target="USING"/>
+<edge source="SILICON" target="SUBSTRATE"/>
+<edge source="SILICON" target="METHODS"/>
+<edge source="SILICON" target="MATERIAL"/>
+<edge source="SILICON" target="SYSTEM"/>
+<edge source="SILICON" target="USING"/>
+<edge source="SILICON" target="DEVICE"/>
+<edge source="SILICON" target="SAME"/>
+<edge source="SILICON" target="A METHOD"/>
+<edge source="SILICON" target="MANUFACTURING METHOD"/>
+<edge source="SILICON" target="LAYER"/>
+<edge source="SILICON" target="COMPRISING"/>
+<edge source="SILICON" target="STRUCTURE"/>
+<edge source="MANUFACTURING METHOD" target="THEREFOR"/>
+<edge source="MANUFACTURING METHOD" target="CATALYST"/>
+<edge source="MANUFACTURING METHOD" target="DEVICE"/>
+<edge source="MANUFACTURING METHOD" target="SEMICONDUCTOR DEVICE"/>
+<edge source="MANUFACTURING METHOD" target="SYSTEM"/>
+<edge source="MANUFACTURING METHOD" target="SUBSTRATE"/>
+<edge source="MANUFACTURING METHOD" target="DISPLAY"/>
+<edge source="MANUFACTURING METHOD" target="SAME"/>
+<edge source="MANUFACTURING METHOD" target="POLYMER"/>
+<edge source="MANUFACTURING METHOD" target="LAYER"/>
+<edge source="MANUFACTURING METHOD" target="MEMBRANE"/>
+<edge source="MANUFACTURING METHOD" target="COMPRISING"/>
+<edge source="MANUFACTURING METHOD" target="RESIN COMPOSITION"/>
+<edge source="MANUFACTURING METHOD" target="MATERIAL"/>
+<edge source="MANUFACTURING METHOD" target="STRUCTURE"/>
+<edge source="MANUFACTURING METHOD" target="USING"/>
+<edge source="MANUFACTURING METHOD" target="RESIN"/>
+<edge source="DEVICE" target="DISPLAY"/>
+<edge source="DEVICE" target="SYSTEM"/>
+<edge source="DEVICE" target="SEMICONDUCTOR DEVICE"/>
+<edge source="DEVICE" target="SAME"/>
+<edge source="DEVICE" target="METHODS"/>
+<edge source="DEVICE" target="COMPRISING"/>
+<edge source="DEVICE" target="THEREFOR"/>
+<edge source="DEVICE" target="SUBSTRATE"/>
+<edge source="DEVICE" target="A METHOD"/>
+<edge source="DEVICE" target="POLYMER"/>
+<edge source="DEVICE" target="STRUCTURE"/>
+<edge source="DEVICE" target="PRODUCTION METHOD"/>
+<edge source="DEVICE" target="CATALYST"/>
+<edge source="DEVICE" target="LAYER"/>
+<edge source="DEVICE" target="RESIN COMPOSITION"/>
+<edge source="DEVICE" target="CRYSTAL"/>
+<edge source="DEVICE" target="COATING"/>
+<edge source="DEVICE" target="HAVING"/>
+<edge source="DEVICE" target="USING"/>
+<edge source="DEVICE" target="COMPOSITIONS"/>
+<edge source="DEVICE" target="PREPARATION"/>
+<edge source="DEVICE" target="MEMBRANE"/>
+<edge source="DEVICE" target="LAMINATE"/>
+<edge source="DEVICE" target="MATERIAL"/>
+<edge source="DEVICE" target="PACKAGE"/>
+<edge source="DEVICE" target="SOLUTION"/>
+<edge source="DISPLAY" target="SUBSTRATE"/>
+<edge source="DISPLAY" target="A METHOD"/>
+<edge source="DISPLAY" target="SAME"/>
+<edge source="DISPLAY" target="RESIN COMPOSITION"/>
+<edge source="DISPLAY" target="SYSTEM"/>
+<edge source="DISPLAY" target="METHODS"/>
+<edge source="DISPLAY" target="SEMICONDUCTOR DEVICE"/>
+<edge source="DISPLAY" target="COMPRISING"/>
+<edge source="DISPLAY" target="USING"/>
+<edge source="SYSTEM" target="METHODS"/>
+<edge source="SYSTEM" target="SAME"/>
+<edge source="SYSTEM" target="COATING"/>
+<edge source="SYSTEM" target="A METHOD"/>
+<edge source="SYSTEM" target="SEMICONDUCTOR DEVICE"/>
+<edge source="SYSTEM" target="PREPARATION"/>
+<edge source="SYSTEM" target="THEREFOR"/>
+<edge source="SYSTEM" target="MATERIAL"/>
+<edge source="SYSTEM" target="POLYMER"/>
+<edge source="SYSTEM" target="RESIN"/>
+<edge source="SYSTEM" target="LAYER"/>
+<edge source="SYSTEM" target="PACKAGE"/>
+<edge source="SYSTEM" target="CATALYST"/>
+<edge source="SYSTEM" target="HAVING"/>
+<edge source="SYSTEM" target="USING"/>
+<edge source="METHODS" target="USING"/>
+<edge source="METHODS" target="COMPOSITIONS"/>
+<edge source="METHODS" target="THEREFOR"/>
+<edge source="METHODS" target="SAME"/>
+<edge source="METHODS" target="MATERIAL"/>
+<edge source="METHODS" target="PACKAGE"/>
+<edge source="METHODS" target="PREPARATION"/>
+<edge source="METHODS" target="MEMBRANE"/>
+<edge source="METHODS" target="SEMICONDUCTOR DEVICE"/>
+<edge source="METHODS" target="SUBSTRATE"/>
+<edge source="METHODS" target="STRUCTURE"/>
+<edge source="METHODS" target="CATALYST"/>
+<edge source="METHODS" target="SOLUTION"/>
+<edge source="METHODS" target="COATING"/>
+<edge source="METHODS" target="RESIN"/>
+<edge source="COMPOSITIONS" target="THEREFOR"/>
+<edge source="COMPOSITIONS" target="COMPRISING"/>
+<edge source="COMPOSITIONS" target="RESIN"/>
+<edge source="COMPOSITIONS" target="STRUCTURE"/>
+<edge source="COMPOSITIONS" target="COATING"/>
+<edge source="COMPOSITIONS" target="POLYMER"/>
+<edge source="COMPOSITIONS" target="SAME"/>
+<edge source="COMPOSITIONS" target="PREPARATION"/>
+<edge source="COMPOSITIONS" target="MEMBRANE"/>
+<edge source="COMPOSITIONS" target="CATALYST"/>
+<edge source="COMPOSITIONS" target="USING"/>
+<edge source="PREPARATION" target="THEREFOR"/>
+<edge source="PREPARATION" target="CATALYST"/>
+<edge source="PREPARATION" target="POLYMER"/>
+<edge source="PREPARATION" target="SAME"/>
+<edge source="PREPARATION" target="MEMBRANE"/>
+<edge source="PREPARATION" target="USING"/>
+<edge source="PREPARATION" target="RESIN"/>
+<edge source="POLYMER" target="RESIN"/>
+<edge source="POLYMER" target="RESIN COMPOSITION"/>
+<edge source="POLYMER" target="LAYER"/>
+<edge source="POLYMER" target="MEMBRANE"/>
+<edge source="POLYMER" target="A METHOD"/>
+<edge source="POLYMER" target="PRODUCTION METHOD"/>
+<edge source="POLYMER" target="SAME"/>
+<edge source="POLYMER" target="CRYSTAL"/>
+<edge source="POLYMER" target="MATERIAL"/>
+<edge source="POLYMER" target="SOLUTION"/>
+<edge source="POLYMER" target="HAVING"/>
+<edge source="POLYMER" target="USING"/>
+<edge source="POLYMER" target="COATING"/>
+<edge source="LAYER" target="SOLUTION"/>
+<edge source="LAYER" target="CATALYST"/>
+<edge source="LAYER" target="A METHOD"/>
+<edge source="LAYER" target="STRUCTURE"/>
+<edge source="LAYER" target="SEMICONDUCTOR DEVICE"/>
+<edge source="LAYER" target="COATING"/>
+<edge source="LAYER" target="COMPRISING"/>
+<edge source="LAYER" target="CRYSTAL"/>
+<edge source="LAYER" target="PRODUCTION METHOD"/>
+<edge source="LAYER" target="SUBSTRATE"/>
+<edge source="LAYER" target="SAME"/>
+<edge source="LAYER" target="THEREFOR"/>
+<edge source="LAYER" target="MATERIAL"/>
+<edge source="LAYER" target="MEMBRANE"/>
+<edge source="LAYER" target="USING"/>
+<edge source="SAME" target="PRODUCTION METHOD"/>
+<edge source="SAME" target="RESIN COMPOSITION"/>
+<edge source="SAME" target="A METHOD"/>
+<edge source="SAME" target="LAMINATE"/>
+<edge source="SAME" target="COATING"/>
+<edge source="SAME" target="MATERIAL"/>
+<edge source="SAME" target="SEMICONDUCTOR DEVICE"/>
+<edge source="SAME" target="CATALYST"/>
+<edge source="SAME" target="MEMBRANE"/>
+<edge source="SAME" target="SUBSTRATE"/>
+<edge source="SAME" target="CRYSTAL"/>
+<edge source="SAME" target="COMPRISING"/>
+<edge source="SAME" target="STRUCTURE"/>
+<edge source="SAME" target="PACKAGE"/>
+<edge source="SAME" target="SOLUTION"/>
+<edge source="SAME" target="HAVING"/>
+<edge source="SAME" target="USING"/>
+<edge source="SAME" target="RESIN"/>
+<edge source="MEMBRANE" target="STRUCTURE"/>
+<edge source="MEMBRANE" target="COMPRISING"/>
+<edge source="MEMBRANE" target="PRODUCTION METHOD"/>
+<edge source="MEMBRANE" target="CATALYST"/>
+<edge source="MEMBRANE" target="HAVING"/>
+<edge source="MEMBRANE" target="USING"/>
+<edge source="SEMICONDUCTOR DEVICE" target="THEREFOR"/>
+<edge source="SEMICONDUCTOR DEVICE" target="PRODUCTION METHOD"/>
+<edge source="SEMICONDUCTOR DEVICE" target="SUBSTRATE"/>
+<edge source="SEMICONDUCTOR DEVICE" target="USING"/>
+<edge source="SEMICONDUCTOR DEVICE" target="A METHOD"/>
+<edge source="SEMICONDUCTOR DEVICE" target="CRYSTAL"/>
+<edge source="SEMICONDUCTOR DEVICE" target="COMPRISING"/>
+<edge source="SEMICONDUCTOR DEVICE" target="RESIN COMPOSITION"/>
+<edge source="SEMICONDUCTOR DEVICE" target="STRUCTURE"/>
+<edge source="SEMICONDUCTOR DEVICE" target="PACKAGE"/>
+<edge source="SEMICONDUCTOR DEVICE" target="HAVING"/>
+<edge source="THEREFOR" target="COMPRISING"/>
+<edge source="THEREFOR" target="CATALYST"/>
+<edge source="THEREFOR" target="RESIN COMPOSITION"/>
+<edge source="THEREFOR" target="PRODUCTION METHOD"/>
+<edge source="THEREFOR" target="MATERIAL"/>
+<edge source="THEREFOR" target="USING"/>
+<edge source="PRODUCTION METHOD" target="CRYSTAL"/>
+<edge source="PRODUCTION METHOD" target="COMPRISING"/>
+<edge source="PRODUCTION METHOD" target="RESIN COMPOSITION"/>
+<edge source="PRODUCTION METHOD" target="CATALYST"/>
+<edge source="PRODUCTION METHOD" target="USING"/>
+<edge source="SUBSTRATE" target="LAMINATE"/>
+<edge source="SUBSTRATE" target="CRYSTAL"/>
+<edge source="SUBSTRATE" target="PACKAGE"/>
+<edge source="SUBSTRATE" target="A METHOD"/>
+<edge source="SUBSTRATE" target="MATERIAL"/>
+<edge source="SUBSTRATE" target="COMPRISING"/>
+<edge source="SUBSTRATE" target="RESIN COMPOSITION"/>
+<edge source="SUBSTRATE" target="STRUCTURE"/>
+<edge source="SUBSTRATE" target="SOLUTION"/>
+<edge source="SUBSTRATE" target="HAVING"/>
+<edge source="SUBSTRATE" target="USING"/>
+<edge source="CRYSTAL" target="HAVING"/>
+<edge source="CRYSTAL" target="LAMINATE"/>
+<edge source="CRYSTAL" target="STRUCTURE"/>
+<edge source="COMPRISING" target="MATERIAL"/>
+<edge source="COMPRISING" target="CATALYST"/>
+<edge source="COMPRISING" target="RESIN"/>
+<edge source="COMPRISING" target="RESIN COMPOSITION"/>
+<edge source="COMPRISING" target="COATING"/>
+<edge source="RESIN COMPOSITION" target="USING"/>
+<edge source="RESIN COMPOSITION" target="LAMINATE"/>
+<edge source="RESIN COMPOSITION" target="RESIN"/>
+<edge source="RESIN COMPOSITION" target="COATING"/>
+<edge source="LAMINATE" target="STRUCTURE"/>
+<edge source="LAMINATE" target="HAVING"/>
+<edge source="LAMINATE" target="USING"/>
+<edge source="LAMINATE" target="COATING"/>
+<edge source="LAMINATE" target="RESIN"/>
+<edge source="MATERIAL" target="COATING"/>
+<edge source="MATERIAL" target="STRUCTURE"/>
+<edge source="MATERIAL" target="PACKAGE"/>
+<edge source="MATERIAL" target="HAVING"/>
+<edge source="MATERIAL" target="USING"/>
+<edge source="MATERIAL" target="RESIN"/>
+<edge source="A METHOD" target="STRUCTURE"/>
+<edge source="A METHOD" target="PACKAGE"/>
+<edge source="A METHOD" target="CATALYST"/>
+<edge source="A METHOD" target="SOLUTION"/>
+<edge source="A METHOD" target="USING"/>
+<edge source="STRUCTURE" target="PACKAGE"/>
+<edge source="STRUCTURE" target="CATALYST"/>
+<edge source="STRUCTURE" target="HAVING"/>
+<edge source="STRUCTURE" target="USING"/>
+<edge source="PACKAGE" target="USING"/>
+<edge source="PACKAGE" target="HAVING"/>
+<edge source="CATALYST" target="SOLUTION"/>
+<edge source="CATALYST" target="HAVING"/>
+<edge source="CATALYST" target="USING"/>
+<edge source="SOLUTION" target="COATING"/>
+<edge source="SOLUTION" target="USING"/>
+<edge source="HAVING" target="USING"/>
+<edge source="HAVING" target="COATING"/>
+<edge source="USING" target="RESIN"/>
+<edge source="USING" target="COATING"/>
+<edge source="COATING" target="RESIN"/>
+</graph></graphml>

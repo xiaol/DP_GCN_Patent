@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="SURVIVAL"/>
+<node id="IMAGE-FORMING APPARATUS"/>
+<node id="JOINT"/>
+<node id="DIABETES"/>
+<node id="DISEASES"/>
+<node id="POWER SEMICONDUCTOR DEVICE"/>
+<node id="RECORDING DEVICE"/>
+<node id="SLAB"/>
+<node id="AUTOIMMUNE DISEASE"/>
+<node id="INK JET RECORDING METHOD"/>
+<node id="STACKING"/>
+<node id="BICYCLIC"/>
+<node id="ORGANIC ELECTRONIC ELEMENT"/>
+<node id="CORROSION RESISTANCE"/>
+<node id="COATED SUBSTRATE"/>
+<node id="YARN"/>
+<node id="A MIXTURE"/>
+<node id="COMPOSITE POWDER"/>
+<node id="VIRAL"/>
+<node id="EVALUATION METHOD"/>
+<edge source="INK JET RECORDING METHOD" target="RECORDING DEVICE"/>
+</graph></graphml>

@@ -1,0 +1,700 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d2" />
+  <key attr.name="id" attr.type="string" for="edge" id="d1" />
+  <key attr.name="label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="SEMICONDUCTOR DEVICE">
+      <data key="d0">SEMICONDUCTOR DEVICE</data>
+    </node>
+    <node id="WIRING BOARD">
+      <data key="d0">WIRING BOARD</data>
+    </node>
+    <node id="LIQUID CRYSTAL DISPLAY DEVICE">
+      <data key="d0">LIQUID CRYSTAL DISPLAY DEVICE</data>
+    </node>
+    <node id="PHOTOELECTRIC CONVERSION ELEMENT">
+      <data key="d0">PHOTOELECTRIC CONVERSION ELEMENT</data>
+    </node>
+    <node id="ELECTRONIC COMPONENT">
+      <data key="d0">ELECTRONIC COMPONENT</data>
+    </node>
+    <node id="CONTROL METHOD">
+      <data key="d0">CONTROL METHOD</data>
+    </node>
+    <node id="SOI WAFER">
+      <data key="d0">SOI WAFER</data>
+    </node>
+    <node id="ELECTRODE ASSEMBLY">
+      <data key="d0">ELECTRODE ASSEMBLY</data>
+    </node>
+    <node id="SOLID-STATE IMAGE SENSOR">
+      <data key="d0">SOLID-STATE IMAGE SENSOR</data>
+    </node>
+    <node id="OPTICAL ELEMENT">
+      <data key="d0">OPTICAL ELEMENT</data>
+    </node>
+    <node id="FUEL CELL SYSTEM">
+      <data key="d0">FUEL CELL SYSTEM</data>
+    </node>
+    <node id="MEMBRANE ELECTRODE ASSEMBLY">
+      <data key="d0">MEMBRANE ELECTRODE ASSEMBLY</data>
+    </node>
+    <node id="DISPLAY DEVICE">
+      <data key="d0">DISPLAY DEVICE</data>
+    </node>
+    <node id="ELECTRODE CATALYST LAYER">
+      <data key="d0">ELECTRODE CATALYST LAYER</data>
+    </node>
+    <node id="ELECTRONIC DEVICE">
+      <data key="d0">ELECTRONIC DEVICE</data>
+    </node>
+    <node id="FUEL CELL STACK">
+      <data key="d0">FUEL CELL STACK</data>
+    </node>
+    <node id="DISPLAY PANEL">
+      <data key="d0">DISPLAY PANEL</data>
+    </node>
+    <node id="PIXEL CIRCUIT">
+      <data key="d0">PIXEL CIRCUIT</data>
+    </node>
+    <node id="ELECTRONIC INSTRUMENT">
+      <data key="d0">ELECTRONIC INSTRUMENT</data>
+    </node>
+    <node id="ELECTRODE MATERIAL">
+      <data key="d0">ELECTRODE MATERIAL</data>
+    </node>
+    <node id="MANUFACTURING METHOD">
+      <data key="d0">MANUFACTURING METHOD</data>
+    </node>
+    <node id="ELECTRONIC EQUIPMENT">
+      <data key="d0">ELECTRONIC EQUIPMENT</data>
+    </node>
+    <node id="ELECTRO-OPTICAL DEVICE">
+      <data key="d0">ELECTRO-OPTICAL DEVICE</data>
+    </node>
+    <node id="ELECTROCHEMICAL DEVICE">
+      <data key="d0">ELECTROCHEMICAL DEVICE</data>
+    </node>
+    <node id="POLYMER ELECTROLYTE FUEL CELL">
+      <data key="d0">POLYMER ELECTROLYTE FUEL CELL</data>
+    </node>
+    <node id="DRIVING METHOD">
+      <data key="d0">DRIVING METHOD</data>
+    </node>
+    <node id="ELECTRONIC APPARATUS">
+      <data key="d0">ELECTRONIC APPARATUS</data>
+    </node>
+    <node id="ITS MANUFACTURING METHOD">
+      <data key="d0">ITS MANUFACTURING METHOD</data>
+    </node>
+    <node id="DISPLAY APPARATUS">
+      <data key="d0">DISPLAY APPARATUS</data>
+    </node>
+    <node id="MEMBRANE-ELECTRODE ASSEMBLY">
+      <data key="d0">MEMBRANE-ELECTRODE ASSEMBLY</data>
+    </node>
+    <node id="A METHOD">
+      <data key="d0">A METHOD</data>
+    </node>
+    <node id="OPTICAL MATERIAL">
+      <data key="d0">OPTICAL MATERIAL</data>
+    </node>
+    <node id="CIRCUIT BOARD">
+      <data key="d0">CIRCUIT BOARD</data>
+    </node>
+    <node id="FUEL CELL">
+      <data key="d0">FUEL CELL</data>
+    </node>
+    <node id="RESIN COMPOSITION">
+      <data key="d0">RESIN COMPOSITION</data>
+    </node>
+    <node id="SILICON WAFER">
+      <data key="d0">SILICON WAFER</data>
+    </node>
+    <edge source="SEMICONDUCTOR DEVICE" target="WIRING BOARD">
+      <data key="d1">547</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="SEMICONDUCTOR DEVICE" target="SOI WAFER">
+      <data key="d1">560</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="SEMICONDUCTOR DEVICE" target="ELECTRONIC INSTRUMENT">
+      <data key="d1">548</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="SEMICONDUCTOR DEVICE" target="LIQUID CRYSTAL DISPLAY DEVICE">
+      <data key="d1">556</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="SEMICONDUCTOR DEVICE" target="MANUFACTURING METHOD">
+      <data key="d1">370</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="SEMICONDUCTOR DEVICE" target="ELECTRONIC COMPONENT">
+      <data key="d1">1</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="SEMICONDUCTOR DEVICE" target="CONTROL METHOD">
+      <data key="d1">164</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="SEMICONDUCTOR DEVICE" target="SOLID-STATE IMAGE SENSOR">
+      <data key="d1">544</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="SEMICONDUCTOR DEVICE" target="DRIVING METHOD">
+      <data key="d1">551</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="SEMICONDUCTOR DEVICE" target="ELECTRONIC APPARATUS">
+      <data key="d1">255</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="SEMICONDUCTOR DEVICE" target="ITS MANUFACTURING METHOD">
+      <data key="d1">513</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="SEMICONDUCTOR DEVICE" target="DISPLAY DEVICE">
+      <data key="d1">16</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="SEMICONDUCTOR DEVICE" target="A METHOD">
+      <data key="d1">549</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="SEMICONDUCTOR DEVICE" target="ELECTRONIC DEVICE">
+      <data key="d1">177</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="SEMICONDUCTOR DEVICE" target="ELECTRONIC EQUIPMENT">
+      <data key="d1">553</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="SEMICONDUCTOR DEVICE" target="CIRCUIT BOARD">
+      <data key="d1">299</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="SEMICONDUCTOR DEVICE" target="RESIN COMPOSITION">
+      <data key="d1">561</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="SEMICONDUCTOR DEVICE" target="ELECTRO-OPTICAL DEVICE">
+      <data key="d1">557</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="SEMICONDUCTOR DEVICE" target="SILICON WAFER">
+      <data key="d1">568</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="WIRING BOARD" target="DISPLAY DEVICE">
+      <data key="d1">34</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="WIRING BOARD" target="DISPLAY PANEL">
+      <data key="d1">245</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="WIRING BOARD" target="ELECTRONIC DEVICE">
+      <data key="d1">210</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="WIRING BOARD" target="MANUFACTURING METHOD">
+      <data key="d1">420</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="WIRING BOARD" target="ELECTRONIC APPARATUS">
+      <data key="d1">273</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="LIQUID CRYSTAL DISPLAY DEVICE" target="DISPLAY DEVICE">
+      <data key="d1">28</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="LIQUID CRYSTAL DISPLAY DEVICE" target="MANUFACTURING METHOD">
+      <data key="d1">416</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="LIQUID CRYSTAL DISPLAY DEVICE" target="SOLID-STATE IMAGE SENSOR">
+      <data key="d1">822</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="LIQUID CRYSTAL DISPLAY DEVICE" target="DRIVING METHOD">
+      <data key="d1">820</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="LIQUID CRYSTAL DISPLAY DEVICE" target="ELECTRONIC APPARATUS">
+      <data key="d1">271</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="PHOTOELECTRIC CONVERSION ELEMENT" target="MANUFACTURING METHOD">
+      <data key="d1">396</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRONIC COMPONENT" target="ITS MANUFACTURING METHOD">
+      <data key="d1">7</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRONIC COMPONENT" target="MANUFACTURING METHOD">
+      <data key="d1">5</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRONIC COMPONENT" target="ELECTRONIC DEVICE">
+      <data key="d1">3</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRONIC COMPONENT" target="CIRCUIT BOARD">
+      <data key="d1">8</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRONIC COMPONENT" target="ELECTRO-OPTICAL DEVICE">
+      <data key="d1">6</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="CONTROL METHOD" target="DISPLAY DEVICE">
+      <data key="d1">15</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="CONTROL METHOD" target="DISPLAY APPARATUS">
+      <data key="d1">166</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="CONTROL METHOD" target="ELECTRONIC DEVICE">
+      <data key="d1">158</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="CONTROL METHOD" target="FUEL CELL">
+      <data key="d1">165</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="CONTROL METHOD" target="ELECTRONIC APPARATUS">
+      <data key="d1">160</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="SOI WAFER" target="ITS MANUFACTURING METHOD">
+      <data key="d1">520</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="SOI WAFER" target="MANUFACTURING METHOD">
+      <data key="d1">447</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="SOI WAFER" target="SILICON WAFER">
+      <data key="d1">858</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRODE ASSEMBLY" target="MEMBRANE ELECTRODE ASSEMBLY">
+      <data key="d1">351</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRODE ASSEMBLY" target="FUEL CELL">
+      <data key="d1">622</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRODE ASSEMBLY" target="MANUFACTURING METHOD">
+      <data key="d1">414</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRODE ASSEMBLY" target="ELECTROCHEMICAL DEVICE">
+      <data key="d1">676</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="SOLID-STATE IMAGE SENSOR" target="DISPLAY DEVICE">
+      <data key="d1">48</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="SOLID-STATE IMAGE SENSOR" target="ELECTRONIC DEVICE">
+      <data key="d1">206</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="SOLID-STATE IMAGE SENSOR" target="DRIVING METHOD">
+      <data key="d1">825</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="SOLID-STATE IMAGE SENSOR" target="ELECTRONIC APPARATUS">
+      <data key="d1">272</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="OPTICAL ELEMENT" target="OPTICAL MATERIAL">
+      <data key="d1">846</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="OPTICAL ELEMENT" target="RESIN COMPOSITION">
+      <data key="d1">741</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="OPTICAL ELEMENT" target="MANUFACTURING METHOD">
+      <data key="d1">432</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="FUEL CELL SYSTEM" target="MEMBRANE ELECTRODE ASSEMBLY">
+      <data key="d1">144</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="FUEL CELL SYSTEM" target="A METHOD">
+      <data key="d1">143</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="FUEL CELL SYSTEM" target="MEMBRANE-ELECTRODE ASSEMBLY">
+      <data key="d1">147</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="FUEL CELL SYSTEM" target="POLYMER ELECTROLYTE FUEL CELL">
+      <data key="d1">146</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="FUEL CELL SYSTEM" target="FUEL CELL STACK">
+      <data key="d1">145</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="FUEL CELL SYSTEM" target="FUEL CELL">
+      <data key="d1">142</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="MEMBRANE ELECTRODE ASSEMBLY" target="MANUFACTURING METHOD">
+      <data key="d1">348</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="MEMBRANE ELECTRODE ASSEMBLY" target="ELECTRODE CATALYST LAYER">
+      <data key="d1">352</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="MEMBRANE ELECTRODE ASSEMBLY" target="POLYMER ELECTROLYTE FUEL CELL">
+      <data key="d1">346</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="MEMBRANE ELECTRODE ASSEMBLY" target="FUEL CELL STACK">
+      <data key="d1">349</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="MEMBRANE ELECTRODE ASSEMBLY" target="FUEL CELL">
+      <data key="d1">347</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="MEMBRANE ELECTRODE ASSEMBLY" target="ELECTROCHEMICAL DEVICE">
+      <data key="d1">345</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="DISPLAY DEVICE" target="ELECTRONIC INSTRUMENT">
+      <data key="d1">26</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="DISPLAY DEVICE" target="MANUFACTURING METHOD">
+      <data key="d1">12</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="DISPLAY DEVICE" target="RESIN COMPOSITION">
+      <data key="d1">44</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="DISPLAY DEVICE" target="DRIVING METHOD">
+      <data key="d1">21</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="DISPLAY DEVICE" target="ELECTRONIC APPARATUS">
+      <data key="d1">23</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="DISPLAY DEVICE" target="ELECTRONIC EQUIPMENT">
+      <data key="d1">30</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="DISPLAY DEVICE" target="ITS MANUFACTURING METHOD">
+      <data key="d1">20</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="DISPLAY DEVICE" target="ELECTRONIC DEVICE">
+      <data key="d1">13</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="DISPLAY DEVICE" target="CIRCUIT BOARD">
+      <data key="d1">39</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="DISPLAY DEVICE" target="DISPLAY PANEL">
+      <data key="d1">38</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="DISPLAY DEVICE" target="PIXEL CIRCUIT">
+      <data key="d1">19</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRODE CATALYST LAYER" target="FUEL CELL">
+      <data key="d1">616</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRODE CATALYST LAYER" target="MANUFACTURING METHOD">
+      <data key="d1">430</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRODE CATALYST LAYER" target="POLYMER ELECTROLYTE FUEL CELL">
+      <data key="d1">875</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRONIC DEVICE" target="ELECTRONIC INSTRUMENT">
+      <data key="d1">190</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRONIC DEVICE" target="MANUFACTURING METHOD">
+      <data key="d1">170</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRONIC DEVICE" target="DRIVING METHOD">
+      <data key="d1">228</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRONIC DEVICE" target="ELECTRONIC APPARATUS">
+      <data key="d1">181</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRONIC DEVICE" target="DISPLAY APPARATUS">
+      <data key="d1">175</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRONIC DEVICE" target="A METHOD">
+      <data key="d1">174</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRONIC DEVICE" target="ELECTRONIC EQUIPMENT">
+      <data key="d1">169</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRONIC DEVICE" target="CIRCUIT BOARD">
+      <data key="d1">196</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRONIC DEVICE" target="FUEL CELL">
+      <data key="d1">200</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRONIC DEVICE" target="DISPLAY PANEL">
+      <data key="d1">192</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRONIC DEVICE" target="ELECTRO-OPTICAL DEVICE">
+      <data key="d1">179</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="FUEL CELL STACK" target="A METHOD">
+      <data key="d1">790</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="FUEL CELL STACK" target="ELECTRODE MATERIAL">
+      <data key="d1">668</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="FUEL CELL STACK" target="MANUFACTURING METHOD">
+      <data key="d1">407</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="FUEL CELL STACK" target="MEMBRANE-ELECTRODE ASSEMBLY">
+      <data key="d1">796</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="FUEL CELL STACK" target="POLYMER ELECTROLYTE FUEL CELL">
+      <data key="d1">795</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="FUEL CELL STACK" target="FUEL CELL">
+      <data key="d1">611</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="DISPLAY PANEL" target="MANUFACTURING METHOD">
+      <data key="d1">236</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="DISPLAY PANEL" target="DISPLAY APPARATUS">
+      <data key="d1">238</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="DISPLAY PANEL" target="DRIVING METHOD">
+      <data key="d1">237</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="DISPLAY PANEL" target="ELECTRONIC APPARATUS">
+      <data key="d1">234</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="DISPLAY PANEL" target="PIXEL CIRCUIT">
+      <data key="d1">248</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="PIXEL CIRCUIT" target="DISPLAY APPARATUS">
+      <data key="d1">658</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="PIXEL CIRCUIT" target="ELECTRONIC APPARATUS">
+      <data key="d1">276</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="PIXEL CIRCUIT" target="DRIVING METHOD">
+      <data key="d1">889</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRONIC INSTRUMENT" target="CIRCUIT BOARD">
+      <data key="d1">304</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRODE MATERIAL" target="FUEL CELL">
+      <data key="d1">618</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRODE MATERIAL" target="MANUFACTURING METHOD">
+      <data key="d1">393</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRODE MATERIAL" target="MEMBRANE-ELECTRODE ASSEMBLY">
+      <data key="d1">666</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRODE MATERIAL" target="ELECTROCHEMICAL DEVICE">
+      <data key="d1">665</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="MANUFACTURING METHOD" target="DISPLAY APPARATUS">
+      <data key="d1">391</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="MANUFACTURING METHOD" target="ELECTRONIC EQUIPMENT">
+      <data key="d1">397</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="MANUFACTURING METHOD" target="ELECTRO-OPTICAL DEVICE">
+      <data key="d1">375</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="MANUFACTURING METHOD" target="ELECTROCHEMICAL DEVICE">
+      <data key="d1">394</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="MANUFACTURING METHOD" target="POLYMER ELECTROLYTE FUEL CELL">
+      <data key="d1">431</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="MANUFACTURING METHOD" target="ELECTRONIC APPARATUS">
+      <data key="d1">252</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="MANUFACTURING METHOD" target="ITS MANUFACTURING METHOD">
+      <data key="d1">384</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="MANUFACTURING METHOD" target="OPTICAL MATERIAL">
+      <data key="d1">422</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="MANUFACTURING METHOD" target="CIRCUIT BOARD">
+      <data key="d1">300</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="MANUFACTURING METHOD" target="FUEL CELL">
+      <data key="d1">390</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="MANUFACTURING METHOD" target="RESIN COMPOSITION">
+      <data key="d1">401</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="MANUFACTURING METHOD" target="SILICON WAFER">
+      <data key="d1">428</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRONIC EQUIPMENT" target="DISPLAY APPARATUS">
+      <data key="d1">652</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRONIC EQUIPMENT" target="CIRCUIT BOARD">
+      <data key="d1">310</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRONIC EQUIPMENT" target="ELECTRO-OPTICAL DEVICE">
+      <data key="d1">687</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRONIC EQUIPMENT" target="DRIVING METHOD">
+      <data key="d1">695</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRONIC EQUIPMENT" target="ELECTRONIC APPARATUS">
+      <data key="d1">266</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRO-OPTICAL DEVICE" target="CIRCUIT BOARD">
+      <data key="d1">306</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRO-OPTICAL DEVICE" target="ELECTRONIC APPARATUS">
+      <data key="d1">284</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTROCHEMICAL DEVICE" target="FUEL CELL">
+      <data key="d1">619</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="POLYMER ELECTROLYTE FUEL CELL" target="FUEL CELL">
+      <data key="d1">613</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="POLYMER ELECTROLYTE FUEL CELL" target="MEMBRANE-ELECTRODE ASSEMBLY">
+      <data key="d1">876</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="DRIVING METHOD" target="DISPLAY APPARATUS">
+      <data key="d1">651</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="DRIVING METHOD" target="ELECTRONIC APPARATUS">
+      <data key="d1">283</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRONIC APPARATUS" target="DISPLAY APPARATUS">
+      <data key="d1">265</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRONIC APPARATUS" target="CIRCUIT BOARD">
+      <data key="d1">260</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ELECTRONIC APPARATUS" target="FUEL CELL">
+      <data key="d1">264</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ITS MANUFACTURING METHOD" target="CIRCUIT BOARD">
+      <data key="d1">305</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ITS MANUFACTURING METHOD" target="DISPLAY APPARATUS">
+      <data key="d1">515</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ITS MANUFACTURING METHOD" target="SILICON WAFER">
+      <data key="d1">517</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="MEMBRANE-ELECTRODE ASSEMBLY" target="A METHOD">
+      <data key="d1">793</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="MEMBRANE-ELECTRODE ASSEMBLY" target="FUEL CELL">
+      <data key="d1">612</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="A METHOD" target="FUEL CELL">
+      <data key="d1">614</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="OPTICAL MATERIAL" target="RESIN COMPOSITION">
+      <data key="d1">736</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="CIRCUIT BOARD" target="RESIN COMPOSITION">
+      <data key="d1">315</data>
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="FUEL CELL" target="RESIN COMPOSITION">
+      <data key="d1">620</data>
+      <data key="d2">1.0</data>
+    </edge>
+  </graph>
+</graphml>
